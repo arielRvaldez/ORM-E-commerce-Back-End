@@ -33,6 +33,9 @@ SO THAT my company can compete with other e-commerce companies
 The following picture shows application:
 ![](./public/images/Screenshot.png)
 
+## Walkthrough Video
+Here is a <a href="https://drive.google.com/file/d/1PCv5SJKoaCH4MM-mnht-8JFDdJ5FlooG/view" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of the application.
+
 ## Author
 Here is my <a href="https://github.com/arielRvaldez/ORM-E-commerce-Back-End.git" target="_blank">Github Repo Link</a>.
 
